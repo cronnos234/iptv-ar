@@ -1,0 +1,35 @@
+#EXTM3U
+
+# === TV ABIERTA ARGENTINA ===
+
+# Telefe
+#EXTINF:-1 tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Telefe_logo_2021.png" group-title="TV Abierta",Telefe
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+
+# El Nueve
+#EXTINF:-1 tvg-name="El Nueve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/El_9_logo.png" group-title="TV Abierta",El Nueve
+http://www.elnueve.com.ar/live/elnueve.m3u8
+
+# El Trece
+#EXTINF:-1 tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/ElTrece_Logo_2017.png" group-title="TV Abierta",El Trece
+http://eltrece.com.ar/live/eltrece.m3u8
+
+# === CANALES DE PAGO / ENTRE TENIMIENTO ===
+# Nota: Estos canales son de pago y no siempre hay streams públicos estables.
+# Te incluyo URLs de ejemplo de listas públicas (pueden no funcionar).
+
+# Cinecanal (ejemplo público)
+#EXTINF:-1 tvg-name="Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Cinecanal_logo.png" group-title="Películas",Cinecanal
+https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8
+
+# Cinemax (ejemplo público)
+#EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Cinemax_logo.png" group-title="Películas",Cinemax
+https://bitdash-a.akamaihd.net/content/MI201109210084_1/MI201109210084.m3u8
+
+# FX (ejemplo público)
+#EXTINF:-1 tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/FX_logo.png" group-title="Entretenimiento",FX
+https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8
+
+# Star Channels (Star Channel)
+#EXTINF:-1 tvg-name="Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Star_Channel_logo.png" group-title="Entretenimiento",Star Channel
+https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8
